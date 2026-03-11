@@ -1,7 +1,0 @@
-{
-  "name": "layout_hello-world",
-  "version": "1.0.0",
-  "scripts": {
-    "test": "mkdir -p report/html_report && echo '<html><body>Tests passed!</body></html>' > report/html_report/index.html"
-  }
-}
